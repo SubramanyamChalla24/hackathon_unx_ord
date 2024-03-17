@@ -1,0 +1,21 @@
+train: ../data/UXOTi_NPA_11_class/Novi11/train/images
+val: ../data/UXOTi_NPA_11_class/Novi11/valid/images
+test: ../data/UXOTi_NPA_11_class/Novi11/test/images
+
+# Number of classes in the dataset
+nc: 11
+
+# Class names
+names:
+  - 'Mortar mine M: 60 mm'
+  - 'Fuse M: 125 mm'
+  - 'Hand grenade'
+  - 'AP land mine PMR capjinka'
+  - 'Bullet 30.2 mm'
+  - 'Land mine PMR 2A'
+  - 'Mortar mine M: 82 mm'
+  - 'Land mine PMR 3'
+  - 'Land mine PROM 1'
+  - 'Land mine PMA 3'
+  - 'Tromblon mine TTM RP'
+
